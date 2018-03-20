@@ -6,3 +6,5 @@ with the line thickness set to be proportional to the magnitude of the current d
 of the branch flows indicate the merger/fragmentation events. 
 
 The plotting make use of the [D3-trail](https://github.com/bmschmidt/D3-trail) javascript. 
+
+![Image of flow chart](/no_channel.png)
